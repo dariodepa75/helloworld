@@ -1,7 +1,7 @@
 {
-  "name": "Tiledesk-ddp-widget",
+  "name": "tiledesk-web-widget",
   "version": "0.1.0",
-  "description": "firs npm pck",
+  "description": "npm tiledesk web chat",
   "main": "index.js",
   "scripts": {
     "test": "npm install helloworld"
