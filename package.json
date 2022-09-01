@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "0.1.0",
+  "description": "firs npm pck",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install helloworld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariodepa75/helloworld.git"
+  },
+  "keywords": [
+    "Github22"
+  ],
+  "author": "Dario De Pascalis <dariodepa75@gmail.com> (https://www.tiledesk.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariodepa75/helloworld/issues"
+  },
+  "homepage": "https://github.com/dariodepa75/helloworld#readme"
+}
